@@ -14,20 +14,6 @@ const data = [
     cover: "/assets/image/cover2.webp",
   },
   {
-    id: 6,
-    nameTrack: "man az to",
-    srcMusic: "/assets/music/track6.mp3",
-    Artist: "dariush",
-    cover: "/assets/image/cover6.jpg",
-  },
-  {
-    id: 8,
-    nameTrack: "golom golom",
-    srcMusic: "/assets/music/track8.mp3",
-    Artist: "erfan tahmasbi",
-    cover: "/assets/image/cover8.jpg",
-  },
-  {
     id: 9,
     nameTrack: "hezaro yek shab",
     srcMusic: "/assets/music/track9.mp3",
@@ -61,13 +47,6 @@ const data = [
     srcMusic: "/assets/music/track16.mp3",
     Artist: "mehdi yarrahi",
     cover: "/assets/image/cover16.jpg",
-  },
-  {
-    id: 17,
-    nameTrack: "talghin",
-    srcMusic: "/assets/music/track17.mp3",
-    Artist: "mehdi yarrahi",
-    cover: "/assets/image/cover17.jpg",
   },
   {
     id: 22,
