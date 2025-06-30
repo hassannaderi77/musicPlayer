@@ -40,14 +40,7 @@ const data = [
     srcMusic: "/assets/music/track22.mp3",
     Artist: "shayea",
     cover: "/assets/image/cover22.jpg",
-  },
-  {
-    id: 23,
-    nameTrack: "man delam nemikhast",
-    srcMusic: "/assets/music/track23.mp3",
-    Artist: "shayea",
-    cover: "/assets/image/cover23.jpeg",
-  },
+  }
 ];
 
 export default data;
