@@ -1,12 +1,5 @@
 const data = [
   {
-    id: 1,
-    nameTrack: "jang",
-    srcMusic: "/assets/music/track1.mp3",
-    Artist: "ali yasini",
-    cover: "/assets/image/cover1.jpg",
-  },
-  {
     id: 2,
     nameTrack: "kenaretam",
     srcMusic: "/assets/music/track2.mp3",
@@ -26,13 +19,6 @@ const data = [
     srcMusic: "/assets/music/track10.mp3",
     Artist: "googoosh",
     cover: "/assets/image/cover10.jpeg",
-  },
-  {
-    id: 12,
-    nameTrack: "gheshang",
-    srcMusic: "/assets/music/track12.mp3",
-    Artist: "heydoo hedayati",
-    cover: "/assets/image/cover12.jpg",
   },
   {
     id: 15,
