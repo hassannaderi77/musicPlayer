@@ -1,0 +1,88 @@
+const data = [
+  {
+    id: 1,
+    nameTrack: "jang",
+    srcMusic: "/assets/music/track1.mp3",
+    Artist: "ali yasini",
+    cover: "/assets/image/cover1.jpg",
+  },
+  {
+    id: 2,
+    nameTrack: "kenaretam",
+    srcMusic: "/assets/music/track2.mp3",
+    Artist: "ali yasini",
+    cover: "/assets/image/cover2.webp",
+  },
+  {
+    id: 6,
+    nameTrack: "man az to",
+    srcMusic: "/assets/music/track6.mp3",
+    Artist: "dariush",
+    cover: "/assets/image/cover6.jpg",
+  },
+  {
+    id: 8,
+    nameTrack: "golom golom",
+    srcMusic: "/assets/music/track8.mp3",
+    Artist: "erfan tahmasbi",
+    cover: "/assets/image/cover8.jpg",
+  },
+  {
+    id: 9,
+    nameTrack: "hezaro yek shab",
+    srcMusic: "/assets/music/track9.mp3",
+    Artist: "erfan tahmasbi",
+    cover: "/assets/image/cover9.jpg",
+  },
+  {
+    id: 10,
+    nameTrack: "bemoon ta bemoonam",
+    srcMusic: "/assets/music/track10.mp3",
+    Artist: "googoosh",
+    cover: "/assets/image/cover10.jpeg",
+  },
+  {
+    id: 12,
+    nameTrack: "gheshang",
+    srcMusic: "/assets/music/track12.mp3",
+    Artist: "heydoo hedayati",
+    cover: "/assets/image/cover12.jpg",
+  },
+  {
+    id: 15,
+    nameTrack: "nagoo nagofti",
+    srcMusic: "/assets/music/track15.mp3",
+    Artist: "mehdi yarrahi",
+    cover: "/assets/image/cover15.jpg",
+  },
+  {
+    id: 16,
+    nameTrack: "nemishe edame dad",
+    srcMusic: "/assets/music/track16.mp3",
+    Artist: "mehdi yarrahi",
+    cover: "/assets/image/cover16.jpg",
+  },
+  {
+    id: 17,
+    nameTrack: "talghin",
+    srcMusic: "/assets/music/track17.mp3",
+    Artist: "mehdi yarrahi",
+    cover: "/assets/image/cover17.jpg",
+  },
+  {
+    id: 22,
+    nameTrack: "too ragi",
+    srcMusic: "/assets/music/track22.mp3",
+    Artist: "shayea",
+    cover: "/assets/image/cover22.jpg",
+  },
+  {
+    id: 23,
+    nameTrack: "man delam nemikhast",
+    srcMusic: "/assets/music/track23.mp3",
+    Artist: "shayea",
+    cover: "/assets/image/cover23.jpeg",
+  },
+];
+
+export default data;
